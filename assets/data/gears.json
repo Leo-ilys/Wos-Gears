@@ -1711,7 +1711,7 @@
         "icon": "assets/images/Solaris_Incandescence.png",
         "preview": "assets/images/Solaris_Incandescence_No_Background.png",
         "materials": {
-          "Hardened_Alloy": 65000,
+          "Hardened_Alloy": 68000,
           "Polishing_Solution": 810,
           "Design_Plans": 135,
           "Lunar_Amber": 20
