@@ -22,7 +22,7 @@ This simulator is designed purely for planning and calculation. It helps you und
 ## 🚀 Getting Started
 
 No installation needed — just open the project in a browser:
-https://bit.ly/chief-gear-simulator
+[https://bit.ly/Whiteout-Gear-Sim](https://bit.ly/Whiteout-Gear-Sim)
 
 Or clone this repo and run it locally:
 
